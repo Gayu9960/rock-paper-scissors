@@ -16,7 +16,8 @@ This project allows a user to play the classic Rock Paper Scissors game against 
 - Simple and responsive design
 
 📸 Screenshot
-Rock Paper Scissors Screenshot
+## 📸 Screenshot
+![Game Screenshot](screenshot 2026-03-16 131503.png)
 
 ▶️ How to Run the Project
 1. Download or clone this repository.
